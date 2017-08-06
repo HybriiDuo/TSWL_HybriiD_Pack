@@ -39,6 +39,7 @@ Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENCIA.m
 Plugin package to improve Secret World League game UI and add some important functionality like the possibility to fit screens with 2K and 4K resoluton, and improved menú bar with useful direct access and information, configurable outfit presets and some more. 
 
 Changelog:
+
 1.0 Initial release
 
 1.1 Detected some errors loading plugin configuration. While there is a proper solution to this, all the plugins load by default and the user should configure the UI to his own taste (:
