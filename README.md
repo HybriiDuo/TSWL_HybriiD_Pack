@@ -9,6 +9,7 @@ ___
 Pack de plugins para mejorar la interfaz de usuario del juego Secret World League y añadir algunas funcionalidades importantes como la posibilidad de ajustar pantallas con resoluton de 2K y 4K, y la barra de menú mejorada con acceso directo e información útil, presets configurables y más.
 
 Changelog:
+
 1.0 Versión inicial
 
 1.1 Se han detectado algunos errores en la carga de la configuración de los plugin. Mientras hay una solución más adecuada, los plugins cargarán con la configuración por defecto que el usuario deberá cambiar para poner a su gusto (:
