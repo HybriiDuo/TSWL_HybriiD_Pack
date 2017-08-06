@@ -1,6 +1,6 @@
 # TSWL_HybriiD_Pack
 ___
-ACTUALIZADO Y FUNCIONANDO: 06/08/2017                                         
+ACTUALIZADO Y FUNCIONANDO -> 06/08/2017 14:40 UTC <- LAST UPDATE           
 ___
 
 ## ESPAÑOL
