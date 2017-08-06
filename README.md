@@ -21,15 +21,15 @@ Por favor lea [INICIO WIKI](https://github.com/HybriiDuo/TSWL_HybriiD_Pack/wiki)
 ## Plugins incluidos
 El paquete contiene los siguientes complementos disponibles para descargar de Curse: 
 
-- EffectsUILegends https://mods.curse.com/tsw-mods/tsw/271262-effects-ui-legends
-- ElTorqiro_UITweaks https://mods.curse.com/tsw-mods/tsw/eltorqiro_uitweaks
-- Valyrie Fashionista https://mods.curse.com/tsw-mods/tsw/fashionista
-- Valyrie FriendsEnhanced https://mods.curse.com/tsw-mods/tsw/vfe
-- MasterLootReminder https://mods.curse.com/tsw-mods/tsw/master-loot-reminder
-- meeehrUI https://mods.curse.com/tsw-mods/tsw/meeehrui-topbar
-- strangeBrowser https://mods.curse.com/tsw-mods/tsw/267664-webbrowser-strange-browser
-- Viper's DontMakeMeWait https://mods.curse.com/tsw-mods/tsw/dont-make-me-wait
-- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator
+- EffectsUILegends https://mods.curse.com/tsw-mods/tsw/271262-effects-ui-legends  - Autor: Icarus78
+- ElTorqiro_UITweaks https://mods.curse.com/tsw-mods/tsw/eltorqiro_uitweaks   - Autor: ElTorqiro
+- Valyrie Fashionista https://mods.curse.com/tsw-mods/tsw/fashionista   - Autor: Valyrie
+- Valyrie FriendsEnhanced https://mods.curse.com/tsw-mods/tsw/vfe   - Autor: Valyrie
+- MasterLootReminder https://mods.curse.com/tsw-mods/tsw/master-loot-reminder   - Autor: Megalomaniacs
+- meeehrUI https://mods.curse.com/tsw-mods/tsw/meeehrui-topbar  - Autor: Bentschi
+- strangeBrowser https://mods.curse.com/tsw-mods/tsw/267664-webbrowser-strange-browser - Autor: 7three
+- Viper's DontMakeMeWait https://mods.curse.com/tsw-mods/tsw/dont-make-me-wait  - Autor: UnknownViper
+- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator - Autor: CastbarRelocator
 
 ## Licencia
 
@@ -53,15 +53,15 @@ Please read [HOME WIKI](https://github.com/HybriiDuo/TSWL_HybriiD_Pack/wiki) for
 ## Plugins included
 The package contains the following plugins available to download from Curse:
 
-- EffectsUILegends https://mods.curse.com/tsw-mods/tsw/271262-effects-ui-legends
-- ElTorqiro_UITweaks https://mods.curse.com/tsw-mods/tsw/eltorqiro_uitweaks
-- Valyrie Fashionista https://mods.curse.com/tsw-mods/tsw/fashionista
-- Valyrie FriendsEnhanced https://mods.curse.com/tsw-mods/tsw/vfe
-- MasterLootReminder https://mods.curse.com/tsw-mods/tsw/master-loot-reminder
-- meeehrUI https://mods.curse.com/tsw-mods/tsw/meeehrui-topbar
-- strangeBrowser https://mods.curse.com/tsw-mods/tsw/267664-webbrowser-strange-browser
-- Viper's DontMakeMeWait https://mods.curse.com/tsw-mods/tsw/dont-make-me-wait
-- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator
+- EffectsUILegends https://mods.curse.com/tsw-mods/tsw/271262-effects-ui-legends  - Autor: Icarus78
+- ElTorqiro_UITweaks https://mods.curse.com/tsw-mods/tsw/eltorqiro_uitweaks   - Autor: ElTorqiro
+- Valyrie Fashionista https://mods.curse.com/tsw-mods/tsw/fashionista   - Autor: Valyrie
+- Valyrie FriendsEnhanced https://mods.curse.com/tsw-mods/tsw/vfe   - Autor: Valyrie
+- MasterLootReminder https://mods.curse.com/tsw-mods/tsw/master-loot-reminder   - Autor: Megalomaniacs
+- meeehrUI https://mods.curse.com/tsw-mods/tsw/meeehrui-topbar  - Autor: Bentschi
+- strangeBrowser https://mods.curse.com/tsw-mods/tsw/267664-webbrowser-strange-browser - Autor: 7three
+- Viper's DontMakeMeWait https://mods.curse.com/tsw-mods/tsw/dont-make-me-wait  - Autor: UnknownViper
+- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator - Autor: CastbarRelocator
 
 ## License
 
