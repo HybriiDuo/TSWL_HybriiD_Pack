@@ -8,6 +8,11 @@ ___
 
 Pack de plugins para mejorar la interfaz de usuario del juego Secret World League y añadir algunas funcionalidades importantes como la posibilidad de ajustar pantallas con resoluton de 2K y 4K, y la barra de menú mejorada con acceso directo e información útil, presets configurables y más.
 
+Changelog:
+1.0 Versión inicial
+
+1.1 Se han detectado algunos errores en la carga de la configuración de los plugin. Mientras hay una solución más adecuada, los plugins cargarán con la configuración por defecto que el usuario deberá cambiar para poner a su gusto (:
+
 ## Contribuir
 
 Por favor lea [INICIO WIKI](https://github.com/HybriiDuo/TSWL_HybriiD_Pack/wiki) para obtener detalles sobre nuestro código de conducta y el proceso de instalación del pack.
@@ -32,6 +37,12 @@ Este proyecto está licenciado bajo la Licencia MIT - vea el archivo [LICENCIA.m
 
 ## ENGLISH
 Plugin package to improve Secret World League game UI and add some important functionality like the possibility to fit screens with 2K and 4K resoluton, and improved menú bar with useful direct access and information, configurable outfit presets and some more. 
+
+Changelog:
+1.0 Initial release
+
+1.1 Detected some errors loading plugin configuration. While there is a proper solution to this, all the plugins load by default and the user should configure the UI to his own taste (:
+
 
 ## Contributing
 
