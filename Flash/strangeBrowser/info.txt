@@ -1,0 +1,25 @@
+
+Web-Browser V2 (Strange-Browser, 0.1) by 7three (ign Yosupai)
+
+Install: Copy content of .zip file to "\The Secret World\Data\Gui\Customized\Flash\"
+Uninstall: Delete "WebBrowser.swf" and folder "strangeBrowser" from  "\The Secret World\Data\Gui\Customized\Flash\"
+
+Please note that strangeBrowser.swf do not have any visible content. It's just a "pipeline" to store config settings.
+
+What's new:
+- Various little changes (like text selecting in the adress bar)
+- Save Position, Size and Toggle (also when enter a new zone)
+- Simple Bookmarks
+- Set/Save Startpage
+- Keep Browser History alive (also when enter a new zone)
+- Zoom mode (experimental - maybe useful to view a small-sized homepage like wikipedia)
+
+Hope it work as good as it do on my pc... ;)
+
+Why "Strange"?
+Because it's strange that nobody did a mod for this so far. I think it's a handy tool instead of alt + tab.
+And also the strange guy who made the source file (sorry for that :P)
+
+gl & hf
+
+7three

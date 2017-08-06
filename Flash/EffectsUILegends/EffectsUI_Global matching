@@ -1,0 +1,24 @@
+I mentioned earlier (way back on the More Information page) using the * operator to affect everything a visualizer displays. For example:
+
+* #ff0000 | pulse
+Twist Fate
+Full House
+
+would make Twist Fate and Full House display with a pulse effect and a red colour.
+
+But what if you are using the Show All option? You might want to affect all of the effects you list specifically, or all the effects that you don't list. You can use @listed to specify global settings for all of the effects you list explicitly, and @unlisted for all the effects that are included implicitly, like so:
+
+@listed #ff0000 | pulse
+@unlisted #0000ff
+Twist Fate
+Full House
+
+This would cause Twist Fate and Full House to appear red and pulsing, and everything else to appear blue.
+
+You can also use:
+
+@special - affects all "special" effects (sprint, World Domination, etc)
+@hostile - affects all hostile effects
+@nonhostile - affects all non-hostile effects
+@interruptible - affects all interruptible casts
+@uninterruptible - affects all uninterruptible casts

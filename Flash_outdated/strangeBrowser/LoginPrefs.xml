@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+   <Value name="strange_Browser" value="true" />
+   <Value name="strange_Browser_debug" value="false" />
+   <Archive name="strange_Browser_data" />
+</Root>

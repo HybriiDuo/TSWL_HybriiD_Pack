@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Root>
+  <Module  name = "Viper_DontMakeMeWait"
+    movie       = "Viper_DontMakeMeWait\Viper_DontMakeMeWait.swf"
+    flags       = "GMF_PRELOAD"
+    depth_layer = "Back"
+    sub_depth   = "0"
+    variable    = "Viper_DontMakeMeWait"
+    criteria    = "Viper_DontMakeMeWait &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY))"
+  />
+</Root>

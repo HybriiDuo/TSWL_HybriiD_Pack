@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<Root>
+  <Value name="TrashScaler" value="true" />
+  <Value name="TrashScaler.x" value="-1" />
+  <Value name="TrashScaler.y" value="-1" />
+  <Value name="TrashScaler.minimized" value="false" />
+
+  <Value name="TrashScaler.achievement" value="100" />
+  <Value name="TrashScaler.computerpuzzle" value="100" />
+  <Value name="TrashScaler.missionjournalwindow" value="100" />
+  <Value name="TrashScaler.missionrewardcontroller" value="100" />
+  <Value name="TrashScaler.mainmenuwindow" value="100" />
+  <Value name="TrashScaler.tradepost" value="100" />
+  <Value name="TrashScaler.bank" value="100" />
+  <Value name="TrashScaler.charactersheet2d" value="100" />
+  <Value name="TrashScaler.itemupgrade" value="100" />
+  <Value name="TrashScaler.mediaplayer" value="100" />
+  <Value name="TrashScaler.skillhivesimple" value="100" />
+  <Value name="TrashScaler.challengejournal" value="100" />
+  <Value name="TrashScaler.petinventory" value="100" />
+
+  <Value name="TrashScaler.achievement.center" value="false" />
+  <Value name="TrashScaler.computerpuzzle.center" value="false" />
+  <Value name="TrashScaler.missionjournalwindow.center" value="false" />
+  <Value name="TrashScaler.missionrewardcontroller.center" value="true" />
+  <Value name="TrashScaler.mainmenuwindow.center" value="false" />
+  <Value name="TrashScaler.tradepost.center" value="false" />
+  <Value name="TrashScaler.bank.center" value="false" />
+  <Value name="TrashScaler.charactersheet2d.center" value="false" />
+  <Value name="TrashScaler.itemupgrade.center" value="false" />
+  <Value name="TrashScaler.mediaplayer.center" value="true" />
+  <Value name="TrashScaler.skillhivesimple.center" value="false" />
+  <Value name="TrashScaler.challengejournal.center" value="false" />
+  <Value name="TrashScaler.petinventory.center" value="false" />
+
+  <Archive name="TrashScaler_Cfg" />
+</Root>

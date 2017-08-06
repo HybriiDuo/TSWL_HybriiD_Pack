@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+  <Module  name = "TrashScaler"
+    movie       = "TrashScaler\TrashScaler.swf"
+    flags       = "GMF_CFG_STORE_USER_CONFIG | GMF_DONT_UNLOAD"
+    depth_layer = "Top"
+    sub_depth   = "0"
+    variable    = "TrashScaler"
+    criteria    = "TrashScaler &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY | GUIMODEFLAGS_ENABLEALLGUI))"
+    config_name = "TrashScaler_Cfg"
+  />
+</Root>

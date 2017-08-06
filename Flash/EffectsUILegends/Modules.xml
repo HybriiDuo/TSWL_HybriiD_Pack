@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+  <Module  name = "EffectsUILegends"
+    movie       = "EffectsUILegends\EffectsUILegends.swf"
+    flags       = "GMF_CFG_STORE_USER_CONFIG | GMF_DONT_UNLOAD"
+    depth_layer = "Middle"
+    sub_depth   = "10"
+    variable    = "EffectsUILegends"
+    criteria    = "EffectsUILegends &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY | GUIMODEFLAGS_ENABLEALLGUI))"
+    config_name = "EffectsUILegends_Cfg"
+  />
+  <Module  name = "EffectsUILegends_ConfigButton"
+    movie       = "EffectsUILegends\EffectsUILegends_ConfigButton.swf"
+    flags       = "GMF_CFG_STORE_USER_CONFIG | GMF_DONT_UNLOAD"
+    depth_layer = "Top"
+    sub_depth   = "2"
+    variable    = "EffectsUILegends_ConfigButton"
+    criteria    = "EffectsUILegends_ConfigButton &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY | GUIMODEFLAGS_ENABLEALLGUI))"
+    config_name = "EffectsUILegends_ConfigButton_Cfg"
+  />
+</Root>

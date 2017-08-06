@@ -1,0 +1,19 @@
+For the brave, there is an option to enable/disable visualizers via the TSW command line. The command syntax is as follows:
+
+To enable a visualizer, use:
+
+/setoption EffectsUILegends_Visualizer "[VISUALIZER NAME] 1"
+
+To disable a visualizer, use:
+
+/setoption EffectsUILegends_Visualizer "[VISUALIZER NAME] 0"
+
+For example, 
+
+/setoption EffectsUILegends_Visualizer "DPS Buffs 0"
+
+will disable any visualizers that are named Major Buffs. You can even use a wildcard in the name, like
+
+/setoption EffectsUILegends_Visualizer "Raid* 0"
+
+which will disable all visualizers that have names that start with "Raid".

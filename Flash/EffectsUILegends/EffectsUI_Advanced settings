@@ -1,0 +1,16 @@
+There are some scary advanced settings hidden away under the cog icon in the top right of the configuration window. Use them at your peril!
+
+<u>Effects to pip-fudge</u>
+
+Some effects use counters that cause something to occur when the counter reaches maximum. If you would prefer an effect to be displayed as though it causes an effect to occur on the activation *following* the maximum counter, enter it into the "Effects to pip-fudge" list. Entering the name of an effect that already does this may cause undesired behaviour. You have been warned.
+
+<u>Effects to reslot on cancel</u>
+
+Some effects cannot be cancelled by normal means. Effects listed under "Effects to reslot on cancel" will be cancelled by removing them from your passive bar and then re-adding them. Note that this will only work for effects whose name matches that of the passive that generates them.
+
+<u>Effects to weapon-juggle on cancel</u>
+
+Effects listed here will be cancelled by swapping left hand, right hand and auxiliary weapons to the inventory and back. Do not move inventory items while this is happening!
+
+
+WARNING! Weapon juggling or reslotting a passive <i>will</i> break Master Planner in Nightmare dungeons.

@@ -1,0 +1,21 @@
+There are a few special things you can do with the effects in your effect list. None of them are necessary, but some of them can be useful. There's no need to read this part if you don't care about that sort of thing.
+
+<u>Custom display text</u>
+
+If you want to change what is displayed when one of your effects is activated, you can add a "show:" tag to your effect entry, like so:
+
+Spirit Blade | show: Ultimate POWAAAA!
+
+Do you see that "|" there? That's the pipe symbol. It's important, and it's the only character you can't use in your display names.
+
+If you want to include the original name in your display name, you can use @name. If you want to use the name of the player owning the effect, you can use @owner. This here:
+	
+Spirit Blade | show: @owner's @name
+	
+would show "IcarusJames's Spirit Blade"
+
+@caster will give you the name of the person who <i>cast</i> the effect, such as:
+	
+Opening Shot | show: @caster's @name
+
+which might show "JimBuffman's Opening Shot".
