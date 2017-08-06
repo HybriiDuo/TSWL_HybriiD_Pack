@@ -29,7 +29,7 @@ El paquete contiene los siguientes complementos disponibles para descargar de Cu
 - meeehrUI https://mods.curse.com/tsw-mods/tsw/meeehrui-topbar  - Autor: Bentschi
 - strangeBrowser https://mods.curse.com/tsw-mods/tsw/267664-webbrowser-strange-browser - Autor: 7three
 - Viper's DontMakeMeWait https://mods.curse.com/tsw-mods/tsw/dont-make-me-wait  - Autor: UnknownViper
-- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator - Autor: CastbarRelocator
+- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator - Autor: UnknownViper
 
 ## Licencia
 
@@ -61,7 +61,7 @@ The package contains the following plugins available to download from Curse:
 - meeehrUI https://mods.curse.com/tsw-mods/tsw/meeehrui-topbar  - Autor: Bentschi
 - strangeBrowser https://mods.curse.com/tsw-mods/tsw/267664-webbrowser-strange-browser - Autor: 7three
 - Viper's DontMakeMeWait https://mods.curse.com/tsw-mods/tsw/dont-make-me-wait  - Autor: UnknownViper
-- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator - Autor: CastbarRelocator
+- Viper's CastbarRelocator https://mods.curse.com/tsw-mods/tsw/castbar-relocator - Autor: UnknownViper
 
 ## License
 
