@@ -1,0 +1,14 @@
+<u>Per-stack colouring</u>
+
+If you want your visualizers to change colour when you reach a certain number of stacks, that is now within your grasp. Just add the stack count you want to re-colour followed by the colour you want, like so:
+
+Unearthly Tremmors | 6 #ffaa00
+
+That "|" is in there again. It's just as important here as it is when you are customizing your display text, so don't forget it. If you want to re-colour all of the stacks above or below a certain number, just add &gt; or &lt; before the number, like so: 
+
+Unearthly Tremmors | &gt;5 #dd9900 
+
+You can specify a range of numbers, like Unearthly Tremmors | 3-5 #dd9900, too.
+
+NOTE: Some effects might actually use 0 for their final stack. This can be unexpected. If your custom stack colour is not working, this might be why.
+

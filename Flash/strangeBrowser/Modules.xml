@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+	<Module
+		name = "strange_Browser"
+		movie = "strangeBrowser\strangeBrowser.swf"
+		flags = "GMF_DONT_UNLOAD"
+		depth_layer = "Back"
+		sub_depth = "0"
+		variable = "strange_Browser"
+		criteria = "strange_Browser &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY | GUIMODEFLAGS_ENABLEALLGUI))"
+		config_name = ""
+	/>
+</Root>

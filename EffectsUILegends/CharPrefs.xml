@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<Root>
+  <Value name="EffectsUILegends_ConfigButton" value="true" />
+  <Value name="EffectsUILegends" value="true" />
+  <Value name="EffectsUILegends_Visualizer" value="true" />
+  <Archive name="EffectsUILegends_Cfg" />
+  <Archive name="EffectsUILegends_ConfigButton_Cfg" />
+</Root>

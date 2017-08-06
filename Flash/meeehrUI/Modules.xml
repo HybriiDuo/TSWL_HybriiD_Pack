@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Root>
+   <Module name = "meeehrUI_Topbar"
+			movie = "meeehrUI\meeehrUI-Topbar.swf"
+			flags = "GMF_CFG_STORE_USER_CONFIG | GMF_DONT_UNLOAD"
+			depth_layer = "Top"
+			sub_depth = "1"
+			variable = "meeehrUI_Topbar"
+			criteria = "meeehrUI_Topbar &amp;&amp; (guimode &amp; (GUIMODEFLAGS_INPLAY | GUIMODEFLAGS_ENABLEALLGUI))"
+			config_name = "meeehrUI_Topbar_data"/>
+   <Module name="MainMenu" movie = ""/><!-- Removes the default topbar -->
+</Root>

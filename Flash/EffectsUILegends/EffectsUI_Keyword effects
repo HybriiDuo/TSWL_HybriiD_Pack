@@ -1,0 +1,26 @@
+You can hide things, if you want to. Effects can be hidden when they have a certain stack count, or a certain amount of time remaining. To hide an effect 
+based on stack count, just use the keyword "vanish:" followed by a single stack number or stack range, like so:
+
+Debilitated | &lt;10 vanish
+Debilitated | 1-6 vanish
+Debilitated | 10 vanish
+
+If you are interested in hiding an effect based on the time remaining, you can do so in a similar manner - just make sure that you are specifying a time in seconds and not a stack count. Times look just like numbers with an "s" at the end, like so:
+
+Debilitated | &lt;5s vanish
+Debilitated | 5s-10s vanish
+
+Other keywords are listed below, and can be applied to any effect in the same manner as "vanish:":
+
+pulse - adds a strobe effect
+excite - makes some elements jump around
+fade - adds a fade effect
+novanish - removes any vanish effect
+nopulse - removes any strobe effect
+noexcite - removes any excite effect
+nofade - removes any fade effect
+
+Keywords can also be used without a stack or time specification, like so:
+
+Full House | pulse
+Full House | excite

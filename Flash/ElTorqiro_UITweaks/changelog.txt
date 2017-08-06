@@ -1,0 +1,128 @@
+1.7.0 -- 2016-05-25
+
+ * change app icon depth to be in front of default topbar when not using VTIO; this has the side effect of placing it above all other windows, too
+
+
+1.6.0 -- 2016-02-16
+
+ * fixed unmoveable mod icon when not using VTIO, re Issue 13.3 update
+ * [MembershipFilter] changed to a more reliable method for the initial redraw of target nametag after a /reloadui; in some rare cases you *may* now see a member icon for a brief second after /reloadui
+
+1.5.0 -- 2016-02-15
+
+ + added new plugin, Membership Filter, which hides unnecessary membership indicators
+
+ * [AbilityBarFX] add redraw timout preference, per request from bonzai86 https://forums.thesecretworld.com/showthread.php?81645-MOD-ElTorqiro_UITweaks&p=1990230&viewfull=1#post1990230
+
+
+1.4.0 -- 2015-11-23
+
+ + [Inspecto] add option for including max skill values in stat totals
+
+ * [Inspecto] fix inspection window becoming permanently invisible when inspecting a character with an already open inspection window
+ 
+
+1.3.0 -- 2015-11-12
+
+ + [BagLock] added option to independently disable bag manipulation lock
+ 
+ * [Fix4K] fix bad positioning when changing active wheel
+  
+  
+1.2.0 -- 2015-10-29
+
+ + BagLock has a new option to prevent items being moved inside pinned bags when the inventory is closed
+ 
+
+1.1.0 -- 2015-10-28
+
+ + added new plugin, Fix 4K, which has been contributed by Julian Paolo Thiry (Aedani)
+ + added new plugin, Resize Windows, which has been contributed by Julian Paolo Thiry (Aedani)
+ + added new plugin, BooDecks Focus Fix, which fixes the BooDecks problem of breaking textfield tab handling in the game
+ 
+ * Ability Bar FX now applies its button dropshadow to the button background, which may help people vanishing ability bar icons for people also using BooDecks
+ * fixed French and German translations in Inspecto Patronum showing invalid characters for accented letters
+ * BagLock now uses non-exclusive key modifier combos, which will help people who use Alt-Tab (more info in the plugin config text)
+
+
+1.0.0 -- 2015-10-25
+
+ ! release is a completely new structure -- ensure old version is fully deleted before installing
+
+ + added new plugin, BagLock, which helps prevent accidental inventory window manipulation
+ + Ability Bar FX has several new cosmetic features
+ 
+ * Inspecto Patronum now opens inspection windows seamlessly, with no redraw hitch
+ * config window options for plugins are now always available, even if the plugin is not enabled
+ * config window now remembers which plugin you last had selected before closing it
+
+ * updated to new standard ElTorqiro config window visuals
+ * (tech) plugins are now part of the core architecture rather than being separate SWFs
+ * (tech) pre-hook scans are now more efficient
+
+ - removed Target of Target plugin; this is now available as a completely separate mod with more features
+ 
+
+0.6.0 -- 2015-08-24
+
+ ! release has two plugins removed - you can safely delete their folders from your UITWeaks installation if you want to
+
+ + Inspecto Patronum now includes AEGIS Shield and AEGIS Healing stats
+ 
+ * compiled all plugins against the Issue 12 source (TSW v1.12)
+ * fixed: Inspecto Patronum now includes glyph ranks in max and avg QL stat
+ * fixed: Inspecto Patronum AEGIS Damage % stat no longer erroneously counts Shield values
+
+ - removed MobileHUD plugin, since Issue 10 introduced the ability to move default HUD elements
+ - removed Hide MaxAP/SP Notifications plugin, since the game now has the same default behaviour
+
+  
+0.5.3 beta -- 2014-10-09
+
+ ! Inspecto Patronum has been renamed to the correct spelling - you must re-enable the plugin
+
+ * icon can now be manipulated when not using VTIO, instructions in tooltip
+   
+   
+0.5.2 beta -- 2014-09-29
+   
+ + Add slider to In Combat Black Background Remover for Redraw Wait Time for people with slower computers.
+ + Add slider to Inspecto Patronum for Redraw Wait Time for people with slower computers.
+   
+ * Update Max SP check for new SP Limits Via ( TSW: Update 1.9.2 - September 11th )
+   
+  
+0.5.1 beta -- 2014-09-08
+
+ ! initial beta release to public
+
+ + many added features
+ 
+ * fixed many bugs
+ 
+
+0.3.0 -- 2014-07-30
+
+ + added Remove AbilityBar Reflections
+
+
+0.2.0 -- 2014-07-18
+
+ + added Suppress Max AP/SP plugin
+
+ * fixed positioning issue with Suppress Character Sheet scaling plugin
+
+
+0.1.1 -- 2014-07-18
+
+ + added ability to activate/deactivate Suppress Character Sheet Scaling safely
+
+ * Suppress Character Sheet Scaling now hides the fadelines by default
+ * fixed plugin load routine in module
+
+
+0.1.0 -- 2014-07-18
+
+ ! initial release
+
+ + Added Suppress Character Sheet Scaling plugin
